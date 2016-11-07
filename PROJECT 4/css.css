@@ -1,0 +1,17 @@
+html {
+text-align: center;
+    background: darkgreen;
+}
+table {
+    border: 10px solid black;
+
+
+}
+th {
+    border: 5px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
